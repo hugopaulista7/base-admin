@@ -17,13 +17,13 @@ Após garantir que os pré-requisitos estão instalados, siga as seguintes etapa
 1. Faça um clone do repositório:
 
 ```bash
-git clone https://github.com/nomedoprojeto.git
+git clone https://github.com/base-admin.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```bash
-cd nomedoprojeto
+cd base-admin
 ```
 
 3. Instale as dependências do Composer:
